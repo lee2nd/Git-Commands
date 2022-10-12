@@ -84,5 +84,3 @@ $ git branch -d <branch>   # delete local branch
 $ git push origin --delete <branch>   # delete remote branch
 
 ```  
-
-<a href=#mcf><p align='center'>Top</p> </a>
