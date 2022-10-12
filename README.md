@@ -82,5 +82,4 @@ $ git push origin <branch/HEAD>:master   # push local branch to remote master
 $ git branch -a     # push local master to remote master
 $ git branch -d <branch>   # delete local branch
 $ git push origin --delete <branch>   # delete remote branch
-
 ```  
